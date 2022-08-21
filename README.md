@@ -1,7 +1,9 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovMLSvycq1FHNe-Rcd2zCzY28z2KwCGYz_Q&usqp=CAU)]
+[![masterhead](https://miro.medium.com/max/875/0*0O5n9x6pzlJ5qLkC.gif)]
+
 <h1 align="center">Hi 👋, I'm Mohan kumar chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- 
+  
+ <img class="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanverse&label=Profile%20views&color=0e75b6&style=flat" alt="mohanverse" /> </p>
