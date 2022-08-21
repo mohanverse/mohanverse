@@ -1,9 +1,9 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Mohan kumar chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanverse&label=Profile%20views&color=0e75b6&style=flat" alt="mohanverse" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mohanverse" /> </p>
 
 - 🌱 I’m currently learning **javascript**
 
