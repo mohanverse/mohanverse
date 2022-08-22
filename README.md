@@ -1,4 +1,4 @@
-[![masterhead](https://miro.medium.com/max/875/0*0O5n9x6pzlJ5qLkC.gif)]
+![masterhead](https://miro.medium.com/max/875/0*0O5n9x6pzlJ5qLkC.gif)
 
 <h1 align="center">Hi 👋, I'm Mohan kumar chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
