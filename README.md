@@ -1,4 +1,4 @@
-<a>![masterhead](https://www.w3schools.com/images/w3lynx_200.png)</a>
+<a align="center">![masterhead](https://www.w3schools.com/images/w3lynx_200.png)</a>
 
 <h1 align="center">Hi 👋, I'm Mohan Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
