@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="260" src="https://media4.giphy.com/media/gJzywu6gKVFOs4xfHf/giphy.gif"></h1>
+<h1 align="center"><img align="center" width="260" src="https://www.kindpng.com/picc/m/20-209856_penguin-clip-art-christmas-penguin-gif-clipart-hd.png"></h1>
 
 <h1 align="center">Hi 👋, I'm Mohan Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
