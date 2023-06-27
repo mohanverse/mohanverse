@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="260" src="https://media.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif"></h1>
+<h1 align="center"><img align="center" width="260" src="https://i.pinimg.com/originals/66/8c/3b/668c3bd964c155eeec4a911e50fb59f7.gif"></h1>
 
 <h1 align="center">Hi 👋, I'm Mohan Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
