@@ -1,12 +1,12 @@
-<h1 align="center"><img align="center" width="260" src="https://i.pinimg.com/originals/66/8c/3b/668c3bd964c155eeec4a911e50fb59f7.gif"></h1>
+<h1 align="center"><img align="center" width="260" src=""></h1>
 
 <h1 align="center">Hi 👋, I'm Mohan Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
   
- <img align="right" class="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+ <img align="right" class="right" alt="coding" width="400" src="https://w0.peakpx.com/wallpaper/671/662/HD-wallpaper-owl-animal-bird-thumbnail.jpg"> 
  
  
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKY8mef5anB3b7ijoPSLcBr-RK__P2IG3RHA&usqp=CAU" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanverse&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I’m currently learning **javascript**
 
